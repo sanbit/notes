@@ -1,0 +1,34 @@
+*.pydevproject
+.project
+.metadata
+target/
+tmp/**
+tmp/**/*
+*.sublime-project
+*.sublime-workspace
+*.tmp
+*.bak
+*.log
+*.swp
+*~.nib
+access.log.*
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+#xcode
+.DS_Store
+*.xcodeproj/
